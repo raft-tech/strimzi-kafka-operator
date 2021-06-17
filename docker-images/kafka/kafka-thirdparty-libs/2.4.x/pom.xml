@@ -16,7 +16,7 @@
     </licenses>
 
     <properties>
-        <strimzi-oauth.version>0.3.0</strimzi-oauth.version>
+        <strimzi-oauth.version>0.8.0</strimzi-oauth.version>
     </properties>
 
     <dependencies>
@@ -36,7 +36,7 @@
         <dependency>
             <groupId>io.jaegertracing</groupId>
             <artifactId>jaeger-client</artifactId>
-            <version>1.1.0</version>
+            <version>1.6.0</version>
             <exclusions>
                 <exclusion>
                     <groupId>org.slf4j</groupId>
