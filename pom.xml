@@ -72,15 +72,15 @@
         <maven-jar-plugin.version>3.1.0</maven-jar-plugin.version>
         <sundrio.version>0.19.0</sundrio.version>
 
-        <fabric8.kubernetes-client.version>4.6.4</fabric8.kubernetes-client.version>
+        <fabric8.kubernetes-client.version>4.10.0</fabric8.kubernetes-client.version>
         <fabric8.openshift-client.version>4.6.4</fabric8.openshift-client.version>
-        <fabric8.kubernetes-model.version>4.6.4</fabric8.kubernetes-model.version>
+        <fabric8.kubernetes-model.version>4.10.0</fabric8.kubernetes-model.version>
         <fabric8.zjsonpatch.version>0.3.0</fabric8.zjsonpatch.version>
         <okhttp.version>3.12.6</okhttp.version>
         <okio.version>1.15.0</okio.version>
-        <vertx.version>3.8.5</vertx.version>
+        <vertx.version>3.9.4</vertx.version>
         <vertx-juni5.version>3.8.5</vertx-juni5.version>
-        <log4j.version>2.13.0</log4j.version>
+        <log4j.version>2.13.2</log4j.version>
         <hamcrest.version>2.2</hamcrest.version>
         <valid4j.version>1.1</valid4j.version>
         <fasterxml.jackson-core.version>2.10.2</fasterxml.jackson-core.version>
@@ -90,7 +90,7 @@
         <kafka.version>2.4.0</kafka.version>
         <zkclient.version>0.11</zkclient.version>
         <scala-library.version>2.12.10</scala-library.version>
-        <zookeeper.version>3.5.6</zookeeper.version>
+        <zookeeper.version>3.6.3</zookeeper.version>
         <mockito.version>2.23.4</mockito.version>
         <jsonpath.version>2.4.0</jsonpath.version>
         <slf4j.version>1.7.25</slf4j.version>
